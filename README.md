@@ -102,5 +102,3 @@ Please feel free to fork the repo, open issues, or submit pull requests.
 ---
 
 ⭐️ If you find this project useful, don’t forget to give it a star!
-
-```
